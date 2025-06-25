@@ -1,4 +1,4 @@
-<img src="https://i.imgur.com/rqXCEbA.gif" alt="anime banner" width="100%" />
+
 
 # 👋 Hey there! I'm Yash
 
