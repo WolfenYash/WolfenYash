@@ -1,3 +1,5 @@
+<img src="https://media.tenor.com/FpK0y99dUBQAAAAd/anime-sky-night.gif" alt="anime header" width="100%" />
+
 # 👋 Hey there! I'm Yash
 
 🎓 First-year CSE undergrad | 👨‍💻 Aspiring AI/ML Engineer  
