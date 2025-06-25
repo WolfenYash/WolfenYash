@@ -1,4 +1,4 @@
-<img src="https://media.tenor.com/FpK0y99dUBQAAAAd/anime-sky-night.gif" alt="anime header" width="100%" />
+<img src="https://i.imgur.com/rqXCEbA.gif" alt="anime banner" width="100%" />
 
 # 👋 Hey there! I'm Yash
 
