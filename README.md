@@ -1,4 +1,3 @@
-## Hi there 👋
 # 👋 Hey there! I'm Yash
 
 🎓 First-year CSE undergrad | 👨‍💻 Aspiring AI/ML Engineer  
@@ -19,8 +18,7 @@
 ---
 
 ## 🏆 GitHub Trophies
-[![Trophies](https://github-profile-trophy.vercel.app/?username=wolfenyash&theme=tokyonight&no-frame=true&column=7&title=Multilingual,Commit,PullRequest,Repositories,Stars,Followers)](https://github.com/ryo-ma/github-profile-trophy)
-
+[![Trophies](https://github-profile-trophy.vercel.app/?username=wolfenyash&theme=monokai&no-frame=true&column=7)](https://github.com/ryo-ma/github-profile-trophy)
 
 ---
 
@@ -49,18 +47,3 @@
 📫 **Reach me at:**  
 [![Gmail](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:your-email@example.com)  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-profile)
-
-<!--
-**WolfenYash/WolfenYash** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
