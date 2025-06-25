@@ -19,7 +19,7 @@
 ---
 
 ## 🏆 GitHub Trophies
-[![Trophies](https://github-profile-trophy.vercel.app/?username=wolfenyash&theme=monokai&no-frame=true&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+[![Trophies](https://github-profile-trophy.vercel.app/?username=wolfenyash&theme=tokyonight&no-frame=true&column=7&title=Multilingual,Commit,PullRequest,Repositories,Stars,Followers)](https://github.com/ryo-ma/github-profile-trophy)
 
 
 ---
