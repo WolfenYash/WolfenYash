@@ -48,4 +48,4 @@
 
 📫 **Reach me at:**  
 [![Gmail](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:wolfenyash@gmail.com)  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white)[](http://www.linkedin.com/in/wolfenyash))
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white)](http://www.linkedin.com/in/wolfenyash)
