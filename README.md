@@ -2,9 +2,9 @@
 
 # 👋 Hey there! I'm Yash
 
-🎓 First-year CSE undergrad | 👨‍💻 Aspiring AI/ML Engineer  
-🔧 CS50 Enthusiast | 🎮 Game Dev Dabbler | ♟️ Climbing Chess Elo  
-🌱 Currently exploring: Full Stack Development, Git, LangChain, RAG models
+🎓 Second-year CSE undergrad | 👨‍💻 Aspiring AI/ML Engineer  
+🎮 Game Dev Dabbler | ♟️ Climbing Chess Elo  
+🌱 Currently exploring: Deep Learning, CNN
 
 ---
 
