@@ -1,5 +1,3 @@
-
-
 # 👋 Hey there! I'm Yash
 
 🎓 Second-year CSE undergrad | 👨‍💻 Aspiring AI/ML Engineer  
@@ -27,7 +25,7 @@
 ---
 
 ## 🏆 GitHub Trophies
-[![Trophies](https://github-profile-trophy.vercel.app/?username=wolfenyash&theme=monokai&no-frame=true&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=wolfenyash&theme=monokai&no-frame=true&no-bg=true&margin-w=5&column=4)](https://github.com/ryo-ma/github-profile-trophy)
 
 ---
 
