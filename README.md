@@ -1,56 +1,37 @@
-# 👋 Hey there! I'm Yash
+# 👋 Hi, I'm Yash
 
-🎓 Second-year CSE undergrad | 👨‍💻 Aspiring AI/ML Engineer  
-🎮 Game Dev Dabbler | ♟️ Climbing Chess Elo  
-🌱 Currently exploring: Deep Learning, CNN
+🎓 Third-year Computer Science student at Amity University, Noida
+
+💻 I enjoy solving algorithmic problems, exploring AI/ML, and building software that tackles real-world problems.
+
+🌱 Currently learning:
+- Distributed Systems
+- Deep Learning
+- Backend Development
 
 ---
 
-## 🧰 Languages and Tools:
-![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=white)
+## 🧰 Languages & Tools
+
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![Java](https://img.shields.io/badge/Java-007396?style=flat-square)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
-
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
-![LangChain](https://img.shields.io/badge/LangChain-121212?style=flat-square&logo=chainlink&logoColor=white)
-![Leaflet](https://img.shields.io/badge/Leaflet-199900?style=flat-square&logo=leaflet&logoColor=white)
-
----
-
-## 🏆 GitHub Trophies
-[![trophy](https://github-profile-trophy.vercel.app/?username=wolfenyash&theme=monokai&no-frame=true&no-bg=true&margin-w=5&column=4)](https://github.com/ryo-ma/github-profile-trophy)
+![LangChain](https://img.shields.io/badge/LangChain-121212?style=flat-square)
+![Android](https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white)
 
 ---
 
 ## 📈 GitHub Stats
+
 ![Stats](https://github-readme-stats.vercel.app/api?username=wolfenyash&show_icons=true&theme=tokyonight&hide=issues)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=wolfenyash&layout=compact&theme=tokyonight)
 
 ---
 
-## 📌 Goals for 2025:
-- ✅ Maintain 9+ CGPA 🎓
-- ♟️ Reach 1600+ Chess Elo
-- 💡 Build an AI/ML healthcare project (NTCC)
-- 🔗 Publish open-source web tools
-- 🇯🇵 Improve Japanese grammar skills
+### 📫 Connect with me
 
----
-
-### 🎯 Fun Facts:
-- I type fast but speak faster 🗣️💨
-- I break things (code, mostly) to learn
-- I love anime, tech, and late-night debugging 😅
-
----
-
-📫 **Reach me at:**  
-[![Gmail](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:wolfenyash@gmail.com)  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white)](http://www.linkedin.com/in/wolfenyash)
+- Portfolio: https://wolfenyash.github.io
+- LinkedIn: https://linkedin.com/in/lunadrax
